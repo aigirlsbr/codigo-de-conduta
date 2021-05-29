@@ -14,3 +14,6 @@ Se um participante se envolver em comportamento de assédio, representantes da c
 Se você estiver sendo assediada e/ou desrespeitada,  observe se outra participante também está sendo e/ou caso você identifique alguma postura que não condiga com este código de conduta, interceda ou peça ajuda a qualquer membro da comunidade AI girls, administradores do telegram, administradores de sites ou organizadores / representantes de qualquer pessoa física eventos organizados do AI Girls.
 
 *Este código de conduta foi adaptado da comunidade [Pyladies SP](https://github.com/PyLadiesSP/codigo-de-conduta) e [Pyladies Internacional](https://pyladies.com/CodeOfConduct/)*
+
+<p><img src="logo.png" width=500px align="right">
+</p>
